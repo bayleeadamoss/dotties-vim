@@ -1,4 +1,5 @@
 ignore:
   - readme.md
+  - hooks
 
 after: hooks/post-up
